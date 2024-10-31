@@ -1,0 +1,28 @@
+c:\Users\PedroPatelli\OneDrive - SCHOTT AG\Desktop\meus arquivos\atalho\bin\Debug\net8.0\Atalho.exe
+c:\Users\PedroPatelli\OneDrive - SCHOTT AG\Desktop\meus arquivos\atalho\bin\Debug\net8.0\Atalho.deps.json
+c:\Users\PedroPatelli\OneDrive - SCHOTT AG\Desktop\meus arquivos\atalho\bin\Debug\net8.0\Atalho.runtimeconfig.json
+c:\Users\PedroPatelli\OneDrive - SCHOTT AG\Desktop\meus arquivos\atalho\bin\Debug\net8.0\Atalho.dll
+c:\Users\PedroPatelli\OneDrive - SCHOTT AG\Desktop\meus arquivos\atalho\bin\Debug\net8.0\Atalho.pdb
+c:\Users\PedroPatelli\OneDrive - SCHOTT AG\Desktop\meus arquivos\atalho\obj\Debug\net8.0\Atalho.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\PedroPatelli\OneDrive - SCHOTT AG\Desktop\meus arquivos\atalho\obj\Debug\net8.0\Atalho.AssemblyInfoInputs.cache
+c:\Users\PedroPatelli\OneDrive - SCHOTT AG\Desktop\meus arquivos\atalho\obj\Debug\net8.0\Atalho.AssemblyInfo.cs
+c:\Users\PedroPatelli\OneDrive - SCHOTT AG\Desktop\meus arquivos\atalho\obj\Debug\net8.0\Atalho.csproj.CoreCompileInputs.cache
+c:\Users\PedroPatelli\OneDrive - SCHOTT AG\Desktop\meus arquivos\atalho\obj\Debug\net8.0\Atalho.dll
+c:\Users\PedroPatelli\OneDrive - SCHOTT AG\Desktop\meus arquivos\atalho\obj\Debug\net8.0\refint\Atalho.dll
+c:\Users\PedroPatelli\OneDrive - SCHOTT AG\Desktop\meus arquivos\atalho\obj\Debug\net8.0\Atalho.pdb
+c:\Users\PedroPatelli\OneDrive - SCHOTT AG\Desktop\meus arquivos\atalho\obj\Debug\net8.0\Atalho.genruntimeconfig.cache
+c:\Users\PedroPatelli\OneDrive - SCHOTT AG\Desktop\meus arquivos\atalho\obj\Debug\net8.0\ref\Atalho.dll
+D:\Desktop\atalho\bin\Debug\net8.0\Atalho.exe
+D:\Desktop\atalho\bin\Debug\net8.0\Atalho.deps.json
+D:\Desktop\atalho\bin\Debug\net8.0\Atalho.runtimeconfig.json
+D:\Desktop\atalho\bin\Debug\net8.0\Atalho.dll
+D:\Desktop\atalho\bin\Debug\net8.0\Atalho.pdb
+D:\Desktop\atalho\obj\Debug\net8.0\Atalho.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\atalho\obj\Debug\net8.0\Atalho.AssemblyInfoInputs.cache
+D:\Desktop\atalho\obj\Debug\net8.0\Atalho.AssemblyInfo.cs
+D:\Desktop\atalho\obj\Debug\net8.0\Atalho.csproj.CoreCompileInputs.cache
+D:\Desktop\atalho\obj\Debug\net8.0\Atalho.dll
+D:\Desktop\atalho\obj\Debug\net8.0\refint\Atalho.dll
+D:\Desktop\atalho\obj\Debug\net8.0\Atalho.pdb
+D:\Desktop\atalho\obj\Debug\net8.0\Atalho.genruntimeconfig.cache
+D:\Desktop\atalho\obj\Debug\net8.0\ref\Atalho.dll
