@@ -35,7 +35,7 @@ namespace MenuAtalhos       // Define um namespace chamado MenuAtalhos para orga
             Console.WriteLine("                                                                                                  ");
             Console.WriteLine("                              BEM-VINDO AO GERENCIADOR DE ATALHOS                                 ");
             Console.WriteLine("                                                                                                  ");
-            Console.WriteLine("                                  Desenvolvido por: Seu Nome                                      ");
+            Console.WriteLine("                                  Desenvolvido por: Pedro Mesquita                                      ");
             Console.WriteLine("                                         Versão: 1.0                                              ");
             Console.WriteLine("                                                                                                  ");
             Console.WriteLine("                            A inicialização começará em breve...                                  ");
